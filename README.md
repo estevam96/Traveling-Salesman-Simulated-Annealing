@@ -1,5 +1,5 @@
 # Traveling salesman problem using simulated annealing
-> Implementation of the traveling salesman problem using the Traveling salesman problem using simulated annealing heuristics to generate a solution. Developed for the discipline Artificial Intelligence at the Federal University of Ceará.
+> Implementation of the traveling salesman problem using simulated annealing heuristics to generate a solution. Developed for the discipline Artificial Intelligence at the Federal University of Ceará.
 
 <br/>
 
